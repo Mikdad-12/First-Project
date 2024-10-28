@@ -1,0 +1,79 @@
+body{
+    height: 100vh;
+    background-image: url(WhatsApp\ Image\ 2024-10-23\ at\ 19.30.20.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    filter: brightness(0.7);
+
+}
+header{
+    position: relative;
+    height: 100px;
+    width: 100%;
+
+}
+h1{
+    width: 200px;
+    height: 50px;
+    position: absolute;
+    color: #d9618A;
+    text-align: center;left: 45%;left: 45%;
+    font-size: 30px;
+    
+}
+#video{
+    position: absolute;
+    width: 50px;
+    height: 30px;
+    color: white;
+    top: 23px;
+    left: 20px;
+
+}
+#image{
+    position: absolute;
+    color: white;
+    width: 50px;
+    height: 30px;
+    top: 23px;
+    left: 84px;
+}
+#documentary{
+    position: absolute;
+    width: 50px;
+    height: 30px;
+    color: white;
+    top: 23px;
+    left: 150px;
+}
+.sub{
+    width: 200px;
+    height: 50px;
+    position: absolute;
+    color: #fff;
+    text-align: center;
+    left: 90%;
+}
+#Head{
+    width: 100%;
+    text-align: center;
+    background-color: transparent;
+}
+#logo{
+    font-size: 200px;
+    color: white;
+  
+    
+}
+footer{
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(102, 83, 83);
+    color: white;
+    text-align: center;
+}
